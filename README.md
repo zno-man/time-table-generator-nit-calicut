@@ -9,6 +9,22 @@ to replace the slot " A" with say " subject 1" note that the initial blank space
 is necessary to replace only the slot names and not replace the 
 <a> tags , also be sure to enable this replace option after enabling the MATCH CASE option.
 
+ currently 
+  *1*  = A
+  *2*  = B
+  *3*  = C
+  *4*  = D
+  *5*  = E
+  *6*  = F
+  *7*  = G
+  *8*  = H
+  
+  *16* = P 
+  *17* = Q
+  *18* = R
+  *19* = S
+  *20* = T 
+  *21* = U
 
 (or)
   
