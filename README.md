@@ -12,20 +12,20 @@ is necessary to replace only the slot names and not replace the                 
  currently                                                                                                   <br> 
                                                                                                              <br>    
   \*1\*  = A <br>
-  *2*  = B <br> 
-  *3*  = C <br>
-  *4*  = D <br>
-  *5*  = E <br>
-  *6*  = F <br>
-  *7*  = G <br>
-  *8*  = H <br>
+  \*2\*  = B <br> 
+  \*3\*  = C <br>
+  \*4\*  = D <br>
+  \*5\*  = E <br>
+  \*6\*  = F <br>
+  \*7\*  = G <br>
+  \*8\*  = H <br>
    <br>
-  *16* = P <br> 
-  *17* = Q <br>
-  *18* = R <br>
-  *19* = S <br>
-  *20* = T <br>
-  *21* = U <br>
+  \*16\* = P <br> 
+  \*17\* = Q <br>
+  \*18\* = R <br>
+  \*19\* = S <br>
+  \*20\* = T <br>
+  \*21\* = U <br>
                                                                                                              <br>
 (or)                                                                                                         <br>
                                                                                                              <br>
