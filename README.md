@@ -11,7 +11,7 @@ is necessary to replace only the slot names and not replace the                 
                                                                                                              <br>
  currently                                                                                                   <br> 
                                                                                                              <br>    
-  *1*  = A <br>
+  \*1\*  = A <br>
   *2*  = B <br> 
   *3*  = C <br>
   *4*  = D <br>
