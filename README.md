@@ -1,5 +1,7 @@
 
 download this file , then open it using notepad and replace the slot names using find and replace (ctrl+h) 
+finally take the screen shot of the final image after opening it via the browser.
+
 
 for eg:
 
@@ -7,3 +9,7 @@ to replace the slot " A" with say " subject 1" note that the initial blank space
 is necessary to replace only the slot names and not replace the 
 <a> tags , also be sure to enable this replace option after enabling the MATCH CASE option.
 
+
+(or)
+  
+ you could just do it in google sheets/excel 😂
